@@ -1,0 +1,21 @@
+{
+  "name": "exercicio03",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto node com npm e package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exercicio",
+    "03",
+    "teste",
+    "npm",
+    "package"
+  ],
+  "author": "Guilherme Calce da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
